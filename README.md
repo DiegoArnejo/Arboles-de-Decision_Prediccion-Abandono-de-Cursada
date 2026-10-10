@@ -1,12 +1,12 @@
-Predicción de Abandono Estudiantil con Árboles de Decisión
+*Predicción de Abandono Estudiantil con Árboles de Decisión*
 
 Modelo predictivo desarrollado en Python para identificar el riesgo de deserción académica y determinar los factores críticos que influyen en la continuidad de los estudiantes.
 
-🚀 Introducción al Proyecto
+🚀 **Introducción al Proyecto*
 
 El objetivo de este trabajo es automatizar el análisis de datos educativos mediante un enfoque basado en Machine Learning. El script procesa un dataset histórico de entrenamiento, evalúa la precisión del modelo mediante un conjunto de prueba, extrae las variables con mayor peso analítico y genera predicciones sobre nuevos registros para exportarlas a un reporte final (Resultado_Final.csv).
 
-🌲 ¿Qué es un Árbol de Decisión?
+🌲 **¿Qué es un Árbol de Decisión?**
 
 Es un algoritmo de aprendizaje supervisado que clasifica datos imitando un diagrama de flujo jerárquico:
 
@@ -16,7 +16,7 @@ Ganancia de Información: Evalúa cuánta reducción de entropía aporta cada va
 
 Hojas: Representan la decisión final o categoría estimada (continúa o abandona).
 
-💻 Implementación en el Código
+💻 **Implementación en el Código**
 
 Carga y Codificación: Lee el archivo CSV de entrenamiento (sep=';') y utiliza pd.get_dummies() para transformar las variables categóricas en formatos binarios numéricos.
 
