@@ -1,4 +1,4 @@
-***Predicción de Abandono Estudiantil con Árboles de Decisión***
+# Predicción de Abandono Estudiantil con Árboles de Decisión
 
 Modelo predictivo desarrollado en Python para identificar el riesgo de deserción académica y determinar los factores críticos que influyen en la continuidad de los estudiantes.
 
